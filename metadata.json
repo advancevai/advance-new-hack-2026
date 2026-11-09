@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI PRO HACK - WinGo 30S Predictor",
+  "description": "Advanced AI WinGo 30S lottery prediction system with live cyber-neon HUD, real-time period sync, interactive history, and draggable floating controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
